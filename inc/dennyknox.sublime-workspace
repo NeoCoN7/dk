@@ -1,0 +1,320 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"b",
+				"btn"
+			],
+			[
+				"fo",
+				"form-group"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"E",
+				"EraType"
+			],
+			[
+				"A",
+				"AIMajPlayer"
+			],
+			[
+				"UNI",
+				"UNIT_BUILDER"
+			],
+			[
+				"Un",
+				"UnitType"
+			],
+			[
+				"col-md",
+				"col-md-12"
+			],
+			[
+				"col",
+				"col-sm-6"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"co",
+				"col-sm-6"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"S",
+				"SportType"
+			],
+			[
+				"Mat",
+				"MarketingSourceID"
+			],
+			[
+				"Mar",
+				"MarketingSourceID"
+			],
+			[
+				"aff",
+				"AffiliateID"
+			],
+			[
+				"tab",
+				"table-striped"
+			],
+			[
+				"tabl",
+				"table-bordered"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"last_filter": "color",
+		"selected_items":
+		[
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Code/Denny Knox"
+	],
+	"file_history":
+	[
+		"/E/Code/Denny Knox/css/layout.css",
+		"/E/Code/Denny Knox/inc/sendEmail.php",
+		"/E/Code/Denny Knox/index.html",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/sbsc-css.css",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/css/csstyles.css",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/success2.php",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/coming-soon.html",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/fail.php",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/success.php",
+		"/C/Users/denny/AppData/Local/Temp/Rar$DRa0.529/comingsoon_04/css/main.css",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/services.php",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/services.css",
+		"/C/Program Files (x86)/Steam/steamapps/workshop/content/289070/870830735/RASL_GameSet-Up.xml",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/css/hpcss.css",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/tradeshow-home.php",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/tradeheader.php",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/tradeshow-fulllist.php",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/css/testcss.css",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/test.php",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/rr-homepage.php",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/css/testcss",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/css/boylecss.css",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/css/rrcss.css",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/boyle-admin.php",
+		"/D/Pictures/4K Wallpaper/dennys-wallpaper-crawler/download.js",
+		"/D/Pictures/4K Wallpaper/dennys-wallpaper-crawler/download_links.json",
+		"/D/Pictures/4K Wallpaper/dennys-wallpaper-crawler/package.json",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/css/mystyle.css",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/course-list.php",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/index.php",
+		"/C/Users/denny/Dropbox/Red Raptor/Clients/Red Raptor Consultancy Ltd/Denny/Dashboard/stylesheet.css",
+		"/C/Users/denny/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 200.0
+	},
+	"pinned_build_system": "",
+	"project": "dennyknox.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 328.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
